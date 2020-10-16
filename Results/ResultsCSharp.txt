@@ -1,0 +1,4 @@
+Starting: 16.10.2020 19:10:46
+CPU usage: 25,8%
+Score result: 71523
+Ending: 16.10.2020 19:10:58

@@ -1,0 +1,3 @@
+﻿  LanguageSpeedTestC.cpp
+C:\Users\steal\source\repos\LanguageSpeedTestC\LanguageSpeedTestC\LanguageSpeedTestC.cpp(22,18): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  LanguageSpeedTestC.vcxproj -> C:\Users\steal\source\repos\LanguageSpeedTestC\Debug\LanguageSpeedTestC.exe

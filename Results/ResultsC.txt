@@ -1,0 +1,4 @@
+Starting: 17.43
+Ending: 17.52
+PC CPU usage: 0.8
+Score result: 23760
