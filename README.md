@@ -32,4 +32,4 @@ Score result: 23760
 # Outcome
 C # is faster, but less optimized. The advantage of C ++ is in optimization, although it is 2 times slower (please note, I only recently started to learn it, so my implementation may be storing it).
 
-Thx for support: https://github.com/r3xq1
+Thx for support: https://github.com/r3xq1 (code fix) && @letsz0ck3r (tester)
