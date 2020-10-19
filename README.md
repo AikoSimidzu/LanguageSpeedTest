@@ -2,7 +2,7 @@
 Made out of interest to test the speed of languages and their optimization
 
 # Specifications PC
-Itel Core I7 3770 3.4 GHz (Not boosted)
+Intel Core I7 3770 3.4 GHz (Not boosted)
 
 16 GB RAM (Speed: 2200)
 
